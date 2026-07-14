@@ -12,4 +12,6 @@ print(np.argmin(array)) # Return the Max number index from list
 
 print(np.sum(array, axis=0)) # Returns list of sum of columns [(1+3), (3+4),.....]
 
-print(np.sum(array, axis=1)) # Returns list of sum of columns [(1+3), (3+4),.....]
+print(np.sum(array, axis=1)) # Returns list of sum of Rows [(1+3+4+5+56+6), (3+4+45+...),....]
+
+
