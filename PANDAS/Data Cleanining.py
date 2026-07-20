@@ -79,3 +79,5 @@ print(df["Age"])
 
 df["Age"] = df["Age"].apply(lambda x:x/2)
 print(df["Age"])
+
+

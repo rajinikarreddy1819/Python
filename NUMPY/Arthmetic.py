@@ -36,6 +36,7 @@ print(" =================== Comparsion Operators =============")
 scores = np.array([91,90,89,60,45,100,78,86])
 
 scores[scores < 60] = 0
+
 print(scores)
 
 print(scores >= 60)

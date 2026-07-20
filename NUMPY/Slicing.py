@@ -38,4 +38,4 @@ print(" ================= Row Slicing And Column Slicing ==================== ")
 
 print(array[1:3, 0:2])
 
-print(array[2,:])
+print(array[2,:]) 
